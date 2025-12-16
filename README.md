@@ -16,7 +16,7 @@
 | **x1** | [Open Folder](https://drive.google.com/drive/folders/1U3atV87QTQSgfWHt2Lpk8PCxF3C1VVYg?usp=share_link) |
 | **x3** | [Open Folder](https://drive.google.com/drive/folders/1r7hMwrZQPC59hzUDRrNXmSApIGQ9f8Ka?usp=share_link) |
 | **t40** | [Open Folder](https://drive.google.com/drive/folders/1_ATN5NJmYRqQ3UAeMEPT2bCUMmvfUGCJ?usp=share_link) |
-| **t 50** | [Open Folder](https://drive.google.com/drive/folders/1aQAi8J2VS9scHQ8unqjl_fhtvGVeyFlv?usp=share_link) |
+| **t50** | [Open Folder](https://drive.google.com/drive/folders/1aQAi8J2VS9scHQ8unqjl_fhtvGVeyFlv?usp=share_link) |
 
 ## Additional Data
 |  | Access Link |
