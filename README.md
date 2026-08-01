@@ -25,3 +25,24 @@
 | **t20** | [Open Folder](https://drive.google.com/drive/folders/1JFftoSLOIf8eyANJKhT8i_FYfJ80BAIN?usp=share_link) |
 
 
+## Citation
+If you are interested in our work, please cite:
+
+```bibtex
+@inproceedings{Li2025SGDiff,
+author = {Li, Ruoyan and Huang, Zijie and Wang, Haixin and Wan, Guancheng and Sun, Yizhou and Wang, Wei},
+title = {Self-Guided Diffusion Model for Accelerating Computational Fluid Dynamics},
+year = {2026},
+isbn = {9798400722585},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3770854.3780314},
+doi = {10.1145/3770854.3780314},
+booktitle = {Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.1},
+pages = {714–723},
+numpages = {10},
+keywords = {diffusion models, ai4science},
+location = {Republic of Korea},
+series = {KDD '26}
+}
+```
