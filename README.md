@@ -1,5 +1,47 @@
 # Self-Guided-Diffusion-Model-for-Accelerating-Computational-Fluid-Dynamics
 
+## Visualizations
+
+### MCW
+
+<p align="center">
+  <img src="mcw/trajectory_0.gif" width="19%" />
+  <img src="mcw/trajectory_1.gif" width="19%" />
+  <img src="mcw/trajectory_2.gif" width="19%" />
+  <img src="mcw/trajectory_3.gif" width="19%" />
+  <img src="mcw/trajectory_4.gif" width="19%" />
+</p>
+
+### KLM
+
+<p align="center">
+  <img src="klm/trajectory_0.gif" width="19%" />
+  <img src="klm/trajectory_1.gif" width="19%" />
+  <img src="klm/trajectory_2.gif" width="19%" />
+  <img src="klm/trajectory_3.gif" width="19%" />
+  <img src="klm/trajectory_4.gif" width="19%" />
+</p>
+
+### TGV
+
+<p align="center">
+  <img src="tgv/trajectory_0.gif" width="19%" />
+  <img src="tgv/trajectory_1.gif" width="19%" />
+  <img src="tgv/trajectory_2.gif" width="19%" />
+  <img src="tgv/trajectory_3.gif" width="19%" />
+  <img src="tgv/trajectory_4.gif" width="19%" />
+</p>
+
+### DCY
+
+<p align="center">
+  <img src="dcy/trajectory_0.gif" width="19%" />
+  <img src="dcy/trajectory_1.gif" width="19%" />
+  <img src="dcy/trajectory_2.gif" width="19%" />
+  <img src="dcy/trajectory_3.gif" width="19%" />
+  <img src="dcy/trajectory_4.gif" width="19%" />
+</p>
+
 ## Data
 |  | Access Link |
 | :--- | :--- |
